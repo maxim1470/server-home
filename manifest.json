@@ -62,6 +62,12 @@
       "side": "both"
     },
     {
+      "path": "mods/EnderStorage-26.3-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/EnderStorage-26.3-1.0.0.jar",
+      "sha1": "393ae3ae3676a3bcbc2be5187f618cc812bea387",
+      "side": "both"
+    },
+    {
       "path": "mods/guideme-26.3.7-alpha.jar",
       "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/guideme-26.3.7-alpha.jar",
       "sha1": "ce305981c7cb5fc79fe2fe7e75bf95d360646abe",
@@ -89,6 +95,12 @@
       "path": "mods/more_sweet_treats-1.0.0-for-neoforge-26.3.jar",
       "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/more_sweet_treats-1.0.0-for-neoforge-26.3.jar",
       "sha1": "5e3ddd6cfeaa851d467c8e22e1bb2fa6e49e7bed",
+      "side": "both"
+    },
+    {
+      "path": "mods/RepellingTorch-26.3-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/RepellingTorch-26.3-1.1.0.jar",
+      "sha1": "487c9617f9f3939e7546d41af4b6a3132845a1e2",
       "side": "both"
     },
     {
