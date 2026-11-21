@@ -1,0 +1,125 @@
+{
+  "pack": "server-home",
+  "files": [
+    {
+      "path": "mods/ae2omnicells-26.3-neoforge-1.1.7.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/ae2omnicells-26.3-neoforge-1.1.7.jar",
+      "sha1": "7d0659771d7ee336e39e60dd50eb68ab5f98e89d",
+      "side": "both"
+    },
+    {
+      "path": "mods/appliedenergistics2-26.3.2-alpha.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/appliedenergistics2-26.3.2-alpha.jar",
+      "sha1": "76fa7a2b4fed12ac1e008e4e78b49ce5b3f73b58",
+      "side": "both"
+    },
+    {
+      "path": "mods/balm-neoforge-26.3-26.3.0.3.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/balm-neoforge-26.3-26.3.0.3.jar",
+      "sha1": "a42f20df25844e8cbf198d43f9b21fc0ed91344d",
+      "side": "both"
+    },
+    {
+      "path": "mods/BetterAECables-26.3-0.1.0.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/BetterAECables-26.3-0.1.0.jar",
+      "sha1": "2ddb0ff4601cda584342e741cb2fe61084376d05",
+      "side": "both"
+    },
+    {
+      "path": "mods/car-neoforge-1.0.51+26.3.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/car-neoforge-1.0.51%2B26.3.jar",
+      "sha1": "d0faa61da6f9138e7012fc9822745dbc6577378f",
+      "side": "both"
+    },
+    {
+      "path": "mods/cookingforblockheads-neoforge-26.3-26.3.0.3.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/cookingforblockheads-neoforge-26.3-26.3.0.3.jar",
+      "sha1": "c90a6024740ffcd70c7474a63e7aa323e40b9ef4",
+      "side": "both"
+    },
+    {
+      "path": "mods/CrazyAE2Cables-26.3-1.0.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/CrazyAE2Cables-26.3-1.0.jar",
+      "sha1": "eef83233d8ee56c27ea82c9ea5ab048c95d6e2a2",
+      "side": "both"
+    },
+    {
+      "path": "mods/create-adapted-26.3-1.31-public-external-assets.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/create-adapted-26.3-1.31-public-external-assets.jar",
+      "sha1": "2562159b77c61329f31c99f77feb96eaa3c56287",
+      "side": "both"
+    },
+    {
+      "path": "mods/dreamdisplays-neoforge-26.3-1.10.9.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/dreamdisplays-neoforge-26.3-1.10.9.jar",
+      "sha1": "5ac768478746e0c594e81ed4b1607b1f734e1aa4",
+      "side": "both"
+    },
+    {
+      "path": "mods/dreamtvs-neoforge-26.3-0.10.0.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/dreamtvs-neoforge-26.3-0.10.0.jar",
+      "sha1": "47003293579dbf0ece9da2d27ddca7c1bca99639",
+      "side": "both"
+    },
+    {
+      "path": "mods/guideme-26.3.7-alpha.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/guideme-26.3.7-alpha.jar",
+      "sha1": "ce305981c7cb5fc79fe2fe7e75bf95d360646abe",
+      "side": "both"
+    },
+    {
+      "path": "mods/Jade-mc26.3-NeoForge-26.3.5.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/Jade-mc26.3-NeoForge-26.3.5.jar",
+      "sha1": "add5199928930724adbe6f9dfaaf646bd1027294",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.2-mc26.3neoforge.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/mcw-furniture-3.4.2-mc26.3neoforge.jar",
+      "sha1": "f8aed8896b25c9fcd205aa22663ca3383c03b56d",
+      "side": "both"
+    },
+    {
+      "path": "mods/Mekanism-Engineer-Edition-26.3-Alpha-4.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/Mekanism-Engineer-Edition-26.3-Alpha-4.jar",
+      "sha1": "c0937545b058122fa8184ac34a95287cb39d6544",
+      "side": "both"
+    },
+    {
+      "path": "mods/more_sweet_treats-1.0.0-for-neoforge-26.3.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/more_sweet_treats-1.0.0-for-neoforge-26.3.jar",
+      "sha1": "5e3ddd6cfeaa851d467c8e22e1bb2fa6e49e7bed",
+      "side": "both"
+    },
+    {
+      "path": "mods/SimpleUpdatesChecker-26.1.2-1.0.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/SimpleUpdatesChecker-26.1.2-1.0.jar",
+      "sha1": "92ca2092a375ac0913f6572e76608c8bfdeb4de5",
+      "side": "both"
+    },
+    {
+      "path": "mods/sodium-neoforge-0.9.3-beta.5+mc26.3.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/sodium-neoforge-0.9.3-beta.5%2Bmc26.3.jar",
+      "sha1": "bf3860fda533ae409116f3303c139cd91cb77fa3",
+      "side": "both"
+    },
+    {
+      "path": "mods/StorageDrawers-neoforge-26.3.0.2.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/StorageDrawers-neoforge-26.3.0.2.jar",
+      "sha1": "ef7d05519921fe68a4225e8a0d61b460c674f286",
+      "side": "both"
+    },
+    {
+      "path": "mods/worldedit-mod-7.4.6.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/worldedit-mod-7.4.6.jar",
+      "sha1": "8f7962199ec8b3fef214b7f81c07fcf2d1eac28f",
+      "side": "both"
+    },
+    {
+      "path": "mods/xaerominimap-neoforge-26.3-26.6.2.jar",
+      "url": "https://raw.githubusercontent.com/maxim1470/server-home/main/mods/xaerominimap-neoforge-26.3-26.6.2.jar",
+      "sha1": "4972839ac5bd327336792fc407296f0d28e62c9c",
+      "side": "both"
+    }
+  ]
+}
